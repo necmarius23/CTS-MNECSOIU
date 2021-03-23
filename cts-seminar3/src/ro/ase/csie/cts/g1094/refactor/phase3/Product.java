@@ -3,6 +3,7 @@ package ro.ase.csie.cts.g1094.refactor.phase3;
 
 import ro.ase.csie.cts.g1094.refactor.exceptions.InvalidAgeException;
 import ro.ase.csie.cts.g1094.refactor.exceptions.InvalidPriceException;
+import ro.ase.csie.cts.g1094.refactor.phase3.services.MarketingServiceInterface;
 
 public class Product {
 

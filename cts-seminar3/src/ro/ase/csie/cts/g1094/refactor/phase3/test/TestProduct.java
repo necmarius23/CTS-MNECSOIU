@@ -2,7 +2,7 @@ package ro.ase.csie.cts.g1094.refactor.phase3.test;
 
 import ro.ase.csie.cts.g1094.refactor.exceptions.InvalidAgeException;
 import ro.ase.csie.cts.g1094.refactor.exceptions.InvalidPriceException;
-import ro.ase.csie.cts.g1094.refactor.phase3.Marketing2021Strategy;
+import ro.ase.csie.cts.g1094.refactor.phase3.services.Marketing2021Strategy;
 import ro.ase.csie.cts.g1094.refactor.phase3.Product;
 import ro.ase.csie.cts.g1094.refactor.phase3.ProductType;
 
