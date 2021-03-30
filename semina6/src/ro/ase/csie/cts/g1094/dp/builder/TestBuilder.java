@@ -26,5 +26,10 @@ public class TestBuilder {
                 .addRightWeapon(new Pistol())
                 .build();
 
+        SuperHeroDirector catalogue =
+                new SuperHeroDirector(new SuperHero.SuperHeroBuilder("Joker",200));
+        SuperHero jokerClone = catalogue.buildJoker();
+
+
     }
 }
